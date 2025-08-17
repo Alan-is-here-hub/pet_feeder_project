@@ -1,6 +1,7 @@
 # pet_feeder_project
 Assignment 1 Pet feeder system Introduction to Information Technology
 This repository contains the files for **Assignment 1: Introduction to Information Technology (4478/8936)** at the University of Canberra.  
+Created by **Alan Joseph** UniCode:**u3281984**
 The project designs and simulates a **low-cost automated pet feeder** using the problem-solving process.
 
 ---
